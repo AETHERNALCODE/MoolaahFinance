@@ -6,12 +6,12 @@
 ## 1. The Challenge: Bridging the Information Gap
 Moolaah Finance was born from a simple engineering question: *How do you accurately represent a living, breathing asset inside a static smart contract?* 
 
-Agriculture is the world's oldest industry, yet it remains technologically opaque to the people who want to finance it. Moolaah is a project dedicated to building the "transparency layer" for livestock—utilizing a mix of IoT data, stochastic models, and decentralized ledgers to create a digital twin of physical herds.
+Agriculture is the world's oldest industry, yet it remains technologically opaque to the people who want to finance it. Moolaah is a project dedicated to building the "transparency layer" for **Biological Commodities**—utilizing a mix of IoT data, stochastic models, and decentralized ledgers to create a digital twin of physical herds.
 
 ---
 
-## 2. Core Concept: Biological RWAs
-Most Real-World Assets (RWAs) are static (buildings, gold bars, government bonds). Livestock is different—it is **Dynamic Biological Capital**. It grows, reproduces, and reacts to its environment.
+## 2. Core Concept: Biological Commodities
+Most Real-World Assets (RWAs) are static (buildings, gold bars, government bonds). Livestock is different—it is **Biological Commodity** value that is intrinsically dynamic. It grows, reproduces, and reacts to its environment.
 
 Our approach is to treat this growth as a series of **On-Chain State Transitions**. Instead of a fixed value, a Moolaah NFT represents a physiological journey—tracking weight gain and health milestones in real-time.
 
