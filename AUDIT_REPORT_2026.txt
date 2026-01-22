@@ -1,0 +1,169 @@
+====================================================================================================
+🐂 MOOLAAH FINANCE: INSTITUTIONAL GRADE SIMULATION REPORT (365 DAYS)
+====================================================================================================
+Pool ID: 10032
+Variant: OASIS (High-Stress Endurance)
+Reporting Standards: GOLD (Global Seasonality Adjusted)
+
+🏦 INITIALIZATION REPORT
+- Total Principal: $100,000
+- Livestock Budget Used: $55,955.4
+- Operational Reserve: $44,044.6
+- Herd Size: 179 Head
+- Gender Breakdown: 39 Bulls | 140 Cows
+
+--------------------------------------------------------------------------------
+📅 MONTH 1 REPORT (Day 30)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 174 (Initial: 179)
+   Avg Weight: 90.6 kg
+   NAV (TVL): $123,536.81
+   Cash Reserves: $40,444.6
+📝 EXECUTIVE SUMMARY:
+
+--------------------------------------------------------------------------------
+📅 MONTH 2 REPORT (Day 60)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 171 (Initial: 179)
+   Avg Weight: 120.7 kg
+   NAV (TVL): $145,655.58
+   Cash Reserves: $36,844.6
+📝 EXECUTIVE SUMMARY:
+
+--------------------------------------------------------------------------------
+📅 MONTH 3 REPORT (Day 90)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 165 (Initial: 179)
+   Avg Weight: 150.2 kg
+   NAV (TVL): $174,163.49
+   Cash Reserves: $33,244.6
+📝 EXECUTIVE SUMMARY:
+   • global market lift: Easter (+8%)
+
+--------------------------------------------------------------------------------
+📅 MONTH 4 REPORT (Day 120)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 161 (Initial: 179)
+   Avg Weight: 179.6 kg
+   NAV (TVL): $182,069.74
+   Cash Reserves: $29,644.6
+📝 EXECUTIVE SUMMARY:
+
+--------------------------------------------------------------------------------
+📅 MONTH 5 REPORT (Day 150)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 157 (Initial: 179)
+   Avg Weight: 208.4 kg
+   NAV (TVL): $241,062.17
+   Cash Reserves: $26,044.6
+📝 EXECUTIVE SUMMARY:
+   • global market lift: Eid al-Adha (+25%)
+
+--------------------------------------------------------------------------------
+📅 MONTH 6 REPORT (Day 180)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 155 (Initial: 179)
+   Avg Weight: 236.2 kg
+   NAV (TVL): $238,294.57
+   Cash Reserves: $22,444.6
+📝 EXECUTIVE SUMMARY:
+   • global market lift: July 4th (+12%)
+
+--------------------------------------------------------------------------------
+📅 MONTH 7 REPORT (Day 210)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 152 (Initial: 179)
+   Avg Weight: 263.3 kg
+   NAV (TVL): $229,844.83
+   Cash Reserves: $18,844.6
+📝 EXECUTIVE SUMMARY:
+
+--------------------------------------------------------------------------------
+📅 MONTH 8 REPORT (Day 240)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 151 (Initial: 179)
+   Avg Weight: 290.4 kg
+   NAV (TVL): $246,446.3
+   Cash Reserves: $15,244.6
+📝 EXECUTIVE SUMMARY:
+   • MATURITY: Herd entering sexually active weight class (>300kg). Expect calving soon.
+
+--------------------------------------------------------------------------------
+📅 MONTH 9 REPORT (Day 270)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 157 (Initial: 179)
+   Avg Weight: 302.9 kg
+   NAV (TVL): $262,517.54
+   Cash Reserves: $11,644.6
+📝 EXECUTIVE SUMMARY:
+
+--------------------------------------------------------------------------------
+📅 MONTH 10 REPORT (Day 300)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 159 (Initial: 179)
+   Avg Weight: 323.2 kg
+   NAV (TVL): $279,227.42
+   Cash Reserves: $8,044.6
+📝 EXECUTIVE SUMMARY:
+
+--------------------------------------------------------------------------------
+📅 MONTH 11 REPORT (Day 330)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 162 (Initial: 179)
+   Avg Weight: 339.8 kg
+   NAV (TVL): $323,699.22
+   Cash Reserves: $4,444.6
+📝 EXECUTIVE SUMMARY:
+   • global market lift: Thanksgiving (+10%)
+
+--------------------------------------------------------------------------------
+📅 MONTH 12 REPORT (Day 360)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 162 (Initial: 179)
+   Avg Weight: 355.7 kg
+   NAV (TVL): $365,014.74
+   Cash Reserves: $844.6
+📝 EXECUTIVE SUMMARY:
+   • global market lift: Christmas/NY (+20%)
+
+--------------------------------------------------------------------------------
+📅 MONTH 13 REPORT (Day 365)
+--------------------------------------------------------------------------------
+📈 METRICS:
+   Herd Count: 165 (Initial: 179)
+   Avg Weight: 354.3 kg
+   NAV (TVL): $369,718.43
+   Cash Reserves: $244.6
+📝 EXECUTIVE SUMMARY:
+   • global market lift: Christmas/NY (+20%)
+
+====================================================================================================
+📂 FINAL YEAR-END AUDIT
+====================================================================================================
+1. FINANCIALS:
+   Starting Principal: $100,000
+   Final TVL: $304,861.241
+   ROI: 204.86%
+   Annualized Yield (APY): 204.86%
+
+2. REPRODUCTION:
+   Total Births: 27
+   First Calf: 10032179 (Born Day ~237)
+
+3. DEMOGRAPHICS (Final):
+   Total Bulls: 31
+   Total Cows: 134
+   Total Calves: 26
+====================================================================================================
